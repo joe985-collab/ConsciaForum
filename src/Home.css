@@ -1,0 +1,17 @@
+.mainDiv {
+    border-radius: 5px;
+    width: 400px;
+    height: 600px;
+    background: rgb(162, 162, 103)
+}
+
+.channelImp{
+    width: 50%;
+}
+
+
+.channelList {
+    height: 200%;
+    background: rgb(236, 232, 232);
+    overflow-y: auto;
+}
